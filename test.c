@@ -1,2 +1,2 @@
 hi thr
-how r u
+how  u

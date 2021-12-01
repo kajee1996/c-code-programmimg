@@ -1,3 +1,2 @@
-hi thr
-how is u
+now deleted all
 

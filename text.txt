@@ -1,6 +1,10 @@
 hi
+<<<<<<< HEAD
 
 
 this is a merge function
 lets see
 
+=======
+jkbhkjhvbjbdfhbdfkj.bdfkhbdfjlbökjb
+>>>>>>> new-br
